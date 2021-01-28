@@ -1,5 +1,5 @@
 # Bit-Torrent-
-<h4>Created a Bit Torrent Client that can download files from other peers.</h4>
+<h3>Created a Bit Torrent Client that can download files from other peers.</h3>
 
 You can find the relevant resources here:-<br>
     **Blog** :- http://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html<br><br>
