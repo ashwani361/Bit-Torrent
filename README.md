@@ -1,7 +1,7 @@
 # Bit-Torrent-
 Created a Bit Torrent Client that can download files from other peers.
 
-You can find the relevant resources here:-
+You can find the relevant resources here:-<br>
     1. #Blog:- http://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html<br><br>
     2. #Youtube Channel:- https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg<br><br>
     3. #Geeksforgeeks:- https://www.geeksforgeeks.org/computer-network-tutorials/<br><br>
